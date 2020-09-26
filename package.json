@@ -3,8 +3,8 @@
   "version": "0.1.1",
   "description": "Gameflip API",
   "keywords": "Gameflip",
-  "homepage": "https://github.com/iJJi/gfapi",
-  "bugs": "https://github.com/iJJi/gfapi/issues",
+  "homepage": "https://github.com/RaphaS9/gfapi",
+  "bugs": "https://github.com/RapaS9/gfapi/issues",
   "author": {
     "name": "Eng-Shien Wu",
     "email": "engshien.wu@ijji.com"
@@ -14,7 +14,7 @@
   "files": [
     "index.js"
   ],
-  "repository": "iJJi/gfapi",
+  "repository": "RaphaS9/gfapi",
   "engines": {
     "node": ">=8.5.0"
   },
